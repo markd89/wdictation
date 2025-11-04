@@ -12,7 +12,7 @@ Features
 This project is comprised of the main script wdictation.sh and two Python cleanup scripts. The real work of course is done by whisper.cpp.
 The flow looks like this:
 
-Execute wdictation.sh. You might do this from a hotkey. You could also use the record button on my python toolbar application. <link> For debug, of course, you’ll want to run it from the console.
+Execute wdictation.sh. You might do this from a hotkey. You could also use the record button on my python toolbar application https://github.com/markd89/floatingtoolbar -- see toolbar_config.ini. For debug, of course, you’ll want to run it from the console.
 
 There are several command-line parameters which can override the defaults in the beginning of the script, i.e. the number of seconds of silence to wait before we assume you’re done speaking.
 
