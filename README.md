@@ -3,10 +3,16 @@ Whisper Dictation. Capture audio, convert to text, paste into the current window
 
 Features
     • Speech to Text Dictation.
+    
     • Record and preprocess audio.
+    
     • Detect silence and stop recording automatically.
+    
     • Dictated text is placed on clipboard.
+    
     • Optionally paste the dictated text into the current window.
+
+    
 
 # Introduction
 This project is comprised of the main script wdictation.sh and two Python cleanup scripts. The real work of course is done by whisper.cpp.
