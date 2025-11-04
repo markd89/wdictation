@@ -34,9 +34,13 @@ There’s quite a bit of debug and logging left in here. If this was really poli
 
 # Dependencies
 Whisper.cpp (https://github.com/ggml-org/whisper.cpp)
+
 sox (Debian apt-get install sox)
+
 arecord (Debian apt-get install alsa-utils)
+
 xdotool (Debian apt-get install xdotool)
+
 
 # Installation
 1. Install dependencies.
